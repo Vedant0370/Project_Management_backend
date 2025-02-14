@@ -1,6 +1,6 @@
-# 🚀 Galaxy Backend  
+# 🚀 Task_Management_Backend  
 
-Project Management Backend is a Node.js-based project management system similar to Jira. This is the first version of the project. In future releases, we plan to add attachments and stories for better task management.  
+Task Management Backend is a Node.js-based project management system similar to Jira. This is the first version of the project. In future releases, we plan to add attachments and stories for better task management.  
 
 ## 📌 Features  
 - User authentication (JWT-based)  
@@ -21,7 +21,7 @@ Project Management Backend is a Node.js-based project management system similar 
 ### **1. Clone the Repository**  
 ```sh
 git clone https://github.com/YOUR_GITHUB_USERNAME/Project_Management_backend.git
-cd Task_Management_Galaxy
+cd Task_Management_Backend
 
 Install Dependencies
 npm install
